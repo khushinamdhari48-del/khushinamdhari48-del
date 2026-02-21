@@ -7,7 +7,7 @@
 ⚡ Passionate about Backend Systems & Scalable Applications
 🔐 Love building secure and efficient APIs
 🌱 Currently learning AWS & Cloud Engineering
-🎯 Goal → Become a High-Impact Software Engineer
+
 
 🏆 Achievements
 
