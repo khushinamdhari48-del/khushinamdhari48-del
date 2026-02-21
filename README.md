@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Khushi D</h1>
-<h3 align="center">🚀 CSE Student | Backend Developer | coding enthusiast | i love to ride & hike </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Problem+Solver;Amazon+SDE+Intern+Selected;AI+Builder&center=true&width=500&height=45"> </p>
+<h3 align="center">🚀 CSE Student | Backend Developer | coding enthusiast | i love to ride & hike </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Problem+Solver;AI+Builder&center=true&width=500&height=45"> </p>
 👨‍💻 About Me
 
 💻 3rd Year Computer Science Engineering Student
+
 🏫 JSS Science and Technology University, Mysuru
+
 ⚡ Passionate about Backend Systems & Scalable Applications
+
 🔐 Love building secure and efficient APIs
+
 🌱 Currently learning AWS & Cloud Engineering
 
 
