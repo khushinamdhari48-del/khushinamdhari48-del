@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi D</h1>
-<h3 align="center">🚀 CSE Student | Backend Developer | coding enthusiast | i love to ride & hike </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Problem+Solver;AI+Builder&center=true&width=500&height=45"> </p>
+<h3 align="center">🚀 CSE Student | learning Backend Engineering   | Anyways I like hiking </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Problem+Solver;AI+Builder&center=true&width=500&height=45"> </p>
 👨‍💻 About Me
 
 
@@ -8,20 +8,6 @@
 🏫 JSS Science and Technology University, Mysuru
 
 ⚡ Passionate about Backend Systems & Scalable Applications
-
-🔐 Love building secure and efficient APIs
-
-🌱 Currently learning AWS & Cloud Engineering
-
-
-🏆 Achievements
-
-
-🎓 Reliance Foundation Scholar
-
-☁️ Google Arcade Cloud Facilitator (200+ labs, 49 skill badges)
-
-🤖 Google Gemini Student Ambassador (2025)
 
 🚀 Tech Stack
 
@@ -67,9 +53,7 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"> </p>
 
 
-🧩 Problem Solving Enthusiast
 
-⚡ Focused on DSA + System Design
 
 🌐 Connect With Me
 
