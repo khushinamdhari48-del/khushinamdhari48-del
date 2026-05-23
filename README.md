@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi D</h1>
-<h3 align="center">🚀 CSE Student | learning Backend Engineering   | Anyways I like hiking </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;MERN+Stack+Developer;Problem+Solver;AI+Builder&center=true&width=500&height=45"> </p>
+<h3 align="center">🚀 CSE Student | learning Backend Engineering   | Anyways I like hiking </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Development;MERN+Stack+&center=true&width=500&height=45"> </p>
 👨‍💻 About Me
 
 
