@@ -60,8 +60,4 @@
 
 <p> <a href="https://www.linkedin.com/in/khushi-dharma-668349320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a> </p>
 
-⚡ Developer Quote
 
-“First solve the problem. Then, write the code.”
-
-⭐ Thanks for visiting my profile!
